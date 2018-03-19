@@ -1,0 +1,810 @@
+ last  time WritePTCList  
+ domain:  1 = domat:  1
+ ---------------------- 
+ dAt:  1
+ Speaker : NoRef Set:-999 = Writer 
+ Audience: NoRef Set:-998 = Reader 
+
+ L:   1
+  1N0 EXO 19,01 [B--XDC H-CLJCJ <Ti>]
+ PRef:  1 B--XDC H-CLJCJ     no PSet 
+
+ L:   2
+  1N0 EXO 19,01 [L-Y>T <Pr>] [BNJ JFR>L <Su>] [M->RY MYRJM <Co>]
+ PRef:  2 L-Y>T              PSet:  1= 3pm=BN JFR>L        PAct:  1= BN JFR>L     
+ PRef:  3 BNJ JFR>L          PSet:  1= 3pm=BN JFR>L        PAct:  1= BN JFR>L     
+ PRef:  4 JFR>L              PSet:  4= 3sm=JFR>L           PAct:  4= JFR>L        
+ PRef:  5 M->RY MYRJM        no PSet 
+ PRef:  6 MYRJM              PSet: 14=     MYRJM           PAct:  9= MYRJM        
+
+ L:   3
+  1N0 EXO 19,01 [B--JWM H-ZH <Ti>] [B>W <Pr>] [MDBR SJNJ <Co>]
+ PRef:  7 B--JWM H-ZH        no PSet 
+ PRef:  8 B>W                PSet:  1= 3pm=BN JFR>L        PAct:  1= BN JFR>L     
+ PRef:  9 MDBR SJNJ          PSet:  2= 0sm=MDBR SJNJ       PAct:  2= MDBR SJNJ    
+ PRef: 10 SJNJ               PSet:  3=     SJNJ            PAct:  3= SJNJ         
+
+ L:   4
+  1N0 EXO 19,02 [W-<Cj>] [JS<W <Pr>] [M-RPJDJM <Co>]
+ PRef: 11 JS<W               PSet:  1= 3pm=BN JFR>L        PAct:  1= BN JFR>L     
+ PRef: 12 M-RPJDJM           no PSet 
+
+ L:   5
+  1N0 EXO 19,02 [W-<Cj>] [JB>W <Pr>] [MDBR SJNJ <Co>]
+ PRef: 13 JB>W               PSet:  1= 3pm=BN JFR>L        PAct:  1= BN JFR>L     
+ PRef: 14 MDBR SJNJ          PSet:  2= 0sm=MDBR SJNJ       PAct:  2= MDBR SJNJ    
+ PRef: 15 SJNJ               PSet:  3=     SJNJ            PAct:  3= SJNJ         
+
+ L:   6
+  1N0 EXO 19,02 [W-<Cj>] [JXNW <Pr>] [B--MDBR <Lo>]
+ PRef: 16 JXNW               PSet:  1= 3pm=BN JFR>L        PAct:  1= BN JFR>L     
+ PRef: 17 B--MDBR            PSet:  2= 0sm=MDBR SJNJ       PAct:  2= MDBR SJNJ    
+
+ L:   7
+  1N0 EXO 19,02 [W-<Cj>] [JXN <Pr>] [CM <Lo>] [JFR>L <Su>] [NGD H-HR <Lo>]
+ PRef: 18 JXN                PSet:  4= 3sm=JFR>L           PAct:  4= JFR>L        
+ PRef: 19 JFR>L              PSet:  4= 3sm=JFR>L           PAct:  4= JFR>L        
+ PRef: 20 NGD H-HR           PSet:  7= 0sm=HR              PAct:  7= HR           
+
+ L:   8
+  1N0 EXO 19,03 [W-<Cj>] [MCH <Su>] [<LH <Pr>] [>L H->LHJM <Co>]
+ PRef: 21 MCH                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef: 22 <LH                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef: 23 >L H->LHJM         PSet: 51= 3pm=>LHJM           PAct: 22= >LHJM        
+
+ L:   9
+  1N0 EXO 19,03 [W-<Cj>] [JQR> <Pr>] [>LJW <Co>] [JHWH <Su>] [MN H-HR <Lo>]
+ PRef: 24 JQR>               PSet:  6= 3sm=JHWH            PAct:  6= JHWH         
+ PRef: 25 >LJW:sfx           PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef: 26 JHWH               PSet:  6= 3sm=JHWH            PAct:  6= JHWH         
+ PRef: 27 MN H-HR            PSet:  7= 0sm=HR              PAct:  7= HR           
+
+ L:  10
+  1N0 EXO 19,03 [L->MR <Pr>]
+ PRef: 28 L->MR              PSet:  6= 3sm=JHWH            PAct:  6= JHWH         
+
+ domain:  2 = domat:  2
+ ---------------------- 
+ dAt:  2
+ Speaker :  24 = Set:  6 3sm=JHWH           = Act:  6 JHWH         
+ Audience:  25 = Set:  5 3sm=MCH            = Act:  5 MCH          
+ SenderSg: NoRef Set:  6 3sm=JHWH           = Act:  6 JHWH          [??]
+ AddrssSg:  32 = Set:  8 2sm=               = Act:  5 MCH          
+
+ L:  11
+  2Q1 EXO 19,03 [KH <Mo>] [T>MR <Pr>] [L-BJT J<QB <Co>]
+ PRef: 29 T>MR               PSet:  8= 2sm=                PAct:  5= MCH          
+ PRef: 30 L-BJT J<QB         PSet:  9= 0sm=BJT J<QB        PAct:  8= BJT J<QB     
+ PRef: 31 J<QB               no PSet 
+
+ L:  12
+  2Q1 EXO 19,03 [W-<Cj>] [TGJD <Pr>] [L-BNJ JFR>L <Co>]
+ PRef: 32 TGJD               PSet:  8= 2sm=                PAct:  5= MCH          
+ PRef: 33 L-BNJ JFR>L        PSet: 10= 0pm=BN JFR>L        PAct:  1= BN JFR>L     
+ PRef: 34 JFR>L              PSet: 11=     JFR>L           PAct:  4= JFR>L        
+
+ domain:  3 = domat:  3
+ ---------------------- 
+ dAt:  3
+ Speaker :  29 = Set:  8 2sm=               = Act:  5 MCH          
+ Audience:  30 = Set:  9 0sm=BJT J<QB       = Act:  8 BJT J<QB     
+ SenderSg:  60 = Set: 13 1sc=               = Act:  6 JHWH         
+ AddrssPl:  59 = Set: 12 2pm=>TM            = Act:  8 BJT J<QB     
+
+ L:  13
+  3Q2 EXO 19,04 [>TM <Su>] [R>JTM <Pr>]
+ PRef: 35 >TM                PSet: 12= 2pm=>TM             PAct:  8= BJT J<QB     
+ PRef: 36 R>JTM              PSet: 12= 2pm=>TM             PAct:  8= BJT J<QB     
+
+ L:  14
+  3Q2 EXO 19,04 [>CR <Cj>] [<FJTJ <Pr>] [L-MYRJM <Co>]
+ PRef: 37 <FJTJ              PSet: 13= 1sc=                PAct:  6= JHWH         [2]
+ PRef: 38 L-MYRJM            PSet: 15=     MYRJM           PAct:  9= MYRJM        
+
+ L:  15
+  3Q2 EXO 19,04 [W-<Cj>] [>F> <Pr>] [>TKM <Ob>] [<L KNPJ NCRJM <Co>]
+ PRef: 39 >F>                PSet: 13= 1sc=                PAct:  6= JHWH         [2]
+ PRef: 40 >TKM:sfx           PSet: 12= 2pm=>TM             PAct:  8= BJT J<QB     
+ PRef: 41 <L KNPJ NCRJM      no PSet 
+ PRef: 42 NCRJM              no PSet 
+
+ L:  16
+  3Q2 EXO 19,04 [W-<Cj>] [>B> <Pr>] [>TKM <Ob>] [>LJ <Co>]
+ PRef: 43 >B>                PSet: 13= 1sc=                PAct:  6= JHWH         [2]
+ PRef: 44 >TKM:sfx           PSet: 12= 2pm=>TM             PAct:  8= BJT J<QB     
+ PRef: 45 >LJ:sfx            PSet: 13= 1sc=                PAct:  6= JHWH         [2]
+
+ L:  18
+  3Q2 EXO 19,05 [>M <Cj>] [CMW< <Mo>] [TCM<W <Pr>] [B-QLJ <Co>]
+ PRef: 46 TCM<W              PSet: 12= 2pm=>TM             PAct:  8= BJT J<QB     
+ PRef: 47 B-QLJ              no PSet 
+ PRef: 48 QLJ:sfx            PSet: 13= 1sc=                PAct:  6= JHWH         [2]
+
+ L:  19
+  3Q2 EXO 19,05 [W-<Cj>] [CMRTM <Pr>] [>T BRJTJ <Ob>]
+ PRef: 49 CMRTM              PSet: 12= 2pm=>TM             PAct:  8= BJT J<QB     
+ PRef: 50 >T BRJTJ           no PSet 
+ PRef: 51 BRJTJ:sfx          PSet: 13= 1sc=                PAct:  6= JHWH         [2]
+
+ L:  20
+  3Q2 EXO 19,05 [W-<Cj>] [HJJTM <Pr>] [LJ <Co>] [SGLH <Co>] [M-KL H-<MJM <Aj>]
+ PRef: 52 HJJTM              PSet: 12= 2pm=>TM             PAct:  8= BJT J<QB     
+ PRef: 53 LJ:sfx             PSet: 13= 1sc=                PAct:  6= JHWH         [2]
+ PRef: 54 SGLH               no PSet 
+ PRef: 55 H-<MJM             no PSet 
+
+ L:  21
+  3Q2 EXO 19,05 [KJ <Cj>] [LJ <PC>] [KL H->RY <Su>]
+ PRef: 56 LJ:sfx             PSet: 13= 1sc=                PAct:  6= JHWH         [2]
+ PRef: 57 H->RY              PSet: 13= 1sc=                PAct:  6= JHWH         [2]
+
+ L:  22
+  3Q2 EXO 19,06 [W-<Cj>] [>TM <Su>] [THJW <Pr>] [LJ <Co>] [MMLKT KHNJM W-GWJ QDWC <PC>]
+ PRef: 58 >TM                PSet: 12= 2pm=>TM             PAct:  8= BJT J<QB     
+ PRef: 59 THJW               PSet: 12= 2pm=>TM             PAct:  8= BJT J<QB     
+ PRef: 60 LJ:sfx             PSet: 13= 1sc=                PAct:  6= JHWH         [2]
+ PRef: 61 MMLKT KHNJM W-GWJ  no PSet 
+ PRef: 62 MMLKT KHNJM        no PSet 
+ PRef: 63 KHNJM              no PSet 
+ PRef: 64 GWJ                no PSet 
+
+ domain:  2 = domat:  4
+ ---------------------- 
+ dAt:  4
+ Speaker :   0 = Set:  6 3sm=JHWH           = Act:  6 JHWH         
+ Audience:   0 = Set:  5 3sm=MCH            = Act:  5 MCH          
+ SenderSg: NoRef Set:  6 3sm=JHWH           = Act:  6 JHWH          [??]
+ AddrssSg:  67 = Set:  8 2sm=               = Act:  5 MCH          
+
+ L:  23
+  2Q1 EXO 19,06 [>LH <Su>] [H-DBRJM <PC>]
+ PRef: 65 >LH                PSet: 16= 0pm=DBR             PAct: 10= DBR          
+ PRef: 66 H-DBRJM            PSet: 16= 0pm=DBR             PAct: 10= DBR          
+
+ L:  24
+  2Q1 EXO 19,06 [>CR <Re>] [TDBR <Pr>] [>L BNJ JFR>L <Co>]
+ PRef: 67 TDBR               PSet:  8= 2sm=                PAct:  5= MCH          
+ PRef: 68 >L BNJ JFR>L       PSet: 10= 0pm=BN JFR>L        PAct:  1= BN JFR>L     
+ PRef: 69 JFR>L              PSet: 11=     JFR>L           PAct:  4= JFR>L        
+
+ domain:  1 = domat:  5
+ ---------------------- 
+ dAt:  5
+ Speaker : NoRef Set:-999 = Writer 
+ Audience: NoRef Set:-998 = Reader 
+
+ L:  25
+  1N0 EXO 19,07 [W-<Cj>] [JB> <Pr>] [MCH <Su>]
+ PRef: 70 JB>                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef: 71 MCH                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+
+ L:  26
+  1N0 EXO 19,07 [W-<Cj>] [JQR> <Pr>] [L-ZQNJ H-<M <Co>]
+ PRef: 72 JQR>               PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef: 73 L-ZQNJ H-<M        PSet: 17= 3pm=ZQN <M          PAct: 11= ZQN <M       
+ PRef: 74 H-<M               PSet: 19= 3pm=<M              PAct: 12= <M           
+
+ L:  27
+  1N0 EXO 19,07 [W-<Cj>] [JFM <Pr>] [L-PNJHM <Co>] [>T KL H-DBRJM H->LH <Ob>]
+ PRef: 75 JFM                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef: 76 L-PNJHM            no PSet 
+ PRef: 77 PNJHM:sfx          PSet: 17= 3pm=ZQN <M          PAct: 11= ZQN <M       
+ PRef: 78 H-DBRJM H->LH      PSet: 18= 0pm=DBR             PAct: 10= DBR          
+
+ L:  28
+  1N0 EXO 19,07 [>CR <Re>] [YWHW <PO>] [JHWH <Su>]
+ PRef: 79 YWHW               PSet:  6= 3sm=JHWH            PAct:  6= JHWH         
+ PRef: 80 YWHW:sfx           PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef: 81 JHWH               PSet:  6= 3sm=JHWH            PAct:  6= JHWH         
+
+ L:  29
+  1N0 EXO 19,08 [W-<Cj>] [J<NW <Pr>] [KL H-<M <Su>] [JXDW <Mo>]
+ PRef: 82 J<NW               PSet: 19= 3pm=<M              PAct: 12= <M           
+ PRef: 83 H-<M               PSet: 19= 3pm=<M              PAct: 12= <M           
+
+ L:  30
+  1N0 EXO 19,08 [W-<Cj>] [J>MRW <Pr>]
+ PRef: 84 J>MRW              PSet: 19= 3pm=<M              PAct: 12= <M           
+
+ domain:  4 = domat:  6
+ ---------------------- 
+ dAt:  6
+ Speaker :  84 = Set: 19 3pm=<M             = Act: 12 <M           
+ Audience: NoRef Set:-993 Audience Unknown 
+ SenderPl:  88 = Set: 21 1pc=               = Act: 12 <M           
+
+ L:  31
+  4Q1 EXO 19,08 [KL <Ob>]
+ PRef: 85 KL                 no PSet 
+
+ L:  32
+  4Q1 EXO 19,08 [>CR <Re>] [DBR <Pr>] [JHWH <Su>]
+ PRef: 86 DBR                PSet: 20= 3sm=JHWH            PAct:  6= JHWH         
+ PRef: 87 JHWH               PSet: 20= 3sm=JHWH            PAct:  6= JHWH         
+
+ L:  33
+  4Q1 EXO 19,08 [N<FH <Pr>]
+ PRef: 88 N<FH               PSet: 21= 1pc=                PAct: 12= <M           
+
+ domain:  1 = domat:  7
+ ---------------------- 
+ dAt:  7
+ Speaker : NoRef Set:-999 = Writer 
+ Audience: NoRef Set:-998 = Reader 
+
+ L:  34
+  1N0 EXO 19,08 [W-<Cj>] [JCB <Pr>] [MCH <Su>] [>T DBRJ H-<M <Ob>] [>L JHWH <Co>]
+ PRef: 89 JCB                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef: 90 MCH                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef: 91 >T DBRJ H-<M       PSet: 27= 0pm=DBR <M          PAct: 13= DBR <M       
+ PRef: 92 H-<M               PSet: 19= 3pm=<M              PAct: 12= <M           
+ PRef: 93 >L JHWH            PSet: 22= 0sm=JHWH            PAct:  6= JHWH         
+
+ L:  35
+  1N0 EXO 19,09 [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L MCH <Co>]
+ PRef: 94 J>MR               PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef: 95 JHWH               PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef: 96 >L MCH             PSet:  5= 3sm=MCH             PAct:  5= MCH          
+
+ domain:  5 = domat:  8
+ ---------------------- 
+ dAt:  8
+ Speaker :  94 = Set: 23 3sm=JHWH           = Act:  6 JHWH         
+ Audience:  96 = Set:  5 3sm=MCH            = Act:  5 MCH          
+ SenderSg: 105 = Set: 24 1sm=>NKJ           = Act:  6 JHWH         
+ AddrssSg: 107 = Set: 25 2sm=               = Act:  5 MCH          
+
+ L:  36
+  5Q1 EXO 19,09 [HNH <Ij>] [>NKJ <Su>] [B> <PC>] [>LJK <Co>] [B-<B H-<NN <Aj>]
+ PRef: 97 >NKJ               PSet: 24= 1sm=>NKJ            PAct:  6= JHWH         
+ PRef: 98 B>                 PSet: 24= 1sm=>NKJ            PAct:  6= JHWH         
+ PRef: 99 >LJK:sfx           PSet: 25= 2sm=                PAct:  5= MCH          
+ PRef:100 B-<B H-<NN         no PSet 
+ PRef:101 H-<NN              no PSet 
+
+ L:  37
+  5Q1 EXO 19,09 [B-<BWR <Cj>] [JCM< <Pr>] [H-<M <Su>]
+ PRef:102 JCM<               PSet: 26= 3pm=<M              PAct: 12= <M           
+ PRef:103 H-<M               PSet: 26= 3pm=<M              PAct: 12= <M           
+
+ L:  38
+  5Q1 EXO 19,09 [B-DBRJ <Ps>] [<MK <Co>]
+ PRef:104 B-DBRJ             PSet: 24= 1sm=>NKJ            PAct:  6= JHWH         
+ PRef:105 DBRJ:sfx           PSet: 24= 1sm=>NKJ            PAct:  6= JHWH         
+ PRef:106 <MK:sfx            PSet: 25= 2sm=                PAct:  5= MCH          
+
+ L:  39
+  5Q1 EXO 19,09 [W-<Cj>] [GM BK <Co>] [J>MJNW <Pr>] [L-<WLM <Ti>]
+ PRef:107 BK:sfx             PSet: 25= 2sm=                PAct:  5= MCH          
+ PRef:108 J>MJNW             PSet: 26= 3pm=<M              PAct: 12= <M           
+ PRef:109 L-<WLM             no PSet 
+
+ domain:  1 = domat:  9
+ ---------------------- 
+ dAt:  9
+ Speaker : NoRef Set:-999 = Writer 
+ Audience: NoRef Set:-998 = Reader 
+
+ L:  40
+  1N0 EXO 19,09 [W-<Cj>] [JGD <Pr>] [MCH <Su>] [>T DBRJ H-<M <Ob>] [>L JHWH <Co>]
+ PRef:110 JGD                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:111 MCH                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:112 >T DBRJ H-<M       PSet: 27= 0pm=DBR <M          PAct: 13= DBR <M       
+ PRef:113 H-<M               PSet: 28= 0sm=<M              PAct: 12= <M           
+ PRef:114 >L JHWH            PSet: 22= 0sm=JHWH            PAct:  6= JHWH         
+
+ L:  41
+  1N0 EXO 19,10 [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L MCH <Co>]
+ PRef:115 J>MR               PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef:116 JHWH               PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef:117 >L MCH             PSet:  5= 3sm=MCH             PAct:  5= MCH          
+
+ domain:  6 = domat: 10
+ ---------------------- 
+ dAt: 10
+ Speaker : 115 = Set: 23 3sm=JHWH           = Act:  6 JHWH         
+ Audience: 117 = Set:  5 3sm=MCH            = Act:  5 MCH          
+ SenderSg: NoRef Set: 23 3sm=JHWH           = Act:  6 JHWH          [??]
+ AddrssSg: 138 = Set: 29 2sm=               = Act:  5 MCH          
+
+ L:  42
+  6Q1 EXO 19,10 [LK <Pr>] [>L H-<M <Co>]
+ PRef:118 LK                 PSet: 29= 2sm=                PAct:  5= MCH          
+ PRef:119 >L H-<M            PSet: 30= 3pm=<M              PAct: 12= <M           
+
+ L:  43
+  6Q1 EXO 19,10 [W-<Cj>] [QDCTM <PO>] [H-JWM W-MXR <Ti>]
+ PRef:120 QDCTM              PSet: 29= 2sm=                PAct:  5= MCH          
+ PRef:121 QDCTM:sfx          PSet: 30= 3pm=<M              PAct: 12= <M           
+ PRef:122 H-JWM W-MXR        no PSet 
+ PRef:123 H-JWM W-MXR        no PSet 
+ PRef:124 MXR                no PSet 
+
+ L:  44
+  6Q1 EXO 19,10 [W-<Cj>] [KBSW <Pr>] [FMLTM <Ob>]
+ PRef:125 KBSW               PSet: 30= 3pm=<M              PAct: 12= <M           
+ PRef:126 FMLTM              PSet: 44= 0pf=FMLH+<M         PAct: 19= FMLH <M      
+ PRef:127 FMLTM:sfx          PSet: 30= 3pm=<M              PAct: 12= <M           
+
+ L:  45
+  6Q1 EXO 19,11 [W-<Cj>] [HJW <Pr>] [NKNJM <PC>] [L--JWM H-CLJCJ <Ti>]
+ PRef:128 HJW                PSet: 30= 3pm=<M              PAct: 12= <M           
+ PRef:129 NKNJM              PSet: 30= 3pm=<M              PAct: 12= <M           
+ PRef:130 L--JWM H-CLJCJ     PSet: 31= 0sm=JWM CLJCJ       PAct: 14= JWM CLJCJ    
+
+ L:  46
+  6Q1 EXO 19,11 [KJ <Cj>] [B--JWM H-CLJCJ <Ti>] [JRD <Pr>] [JHWH <Su>] [L-<JNJ KL H-<M <Aj>] [<L HR SJNJ <Co>]
+ PRef:131 B--JWM H-CLJCJ     PSet: 31= 0sm=JWM CLJCJ       PAct: 14= JWM CLJCJ    
+ PRef:132 JRD                PSet: 32= 3sm=JHWH            PAct:  6= JHWH         [1]
+ PRef:133 JHWH               PSet: 32= 3sm=JHWH            PAct:  6= JHWH         [1]
+ PRef:134 L-<JNJ KL H-<M     no PSet 
+ PRef:135 H-<M               PSet: 33= 0sm=<M              PAct: 12= <M           
+ PRef:136 <L HR SJNJ         PSet: 34= 0sm=HR SJNJ         PAct: 15= HR SJNJ      
+ PRef:137 SJNJ               PSet: 35=     SJNJ            PAct:  3= SJNJ         
+
+ L:  47
+  6Q1 EXO 19,12 [W-<Cj>] [HGBLT <Pr>] [>T H-<M <Ob>] [SBJB <Mo>]
+ PRef:138 HGBLT              PSet: 29= 2sm=                PAct:  5= MCH          
+ PRef:139 >T H-<M            PSet: 30= 3pm=<M              PAct: 12= <M           
+
+ L:  48
+  6Q1 EXO 19,12 [L->MR <Pr>]
+ PRef:140 L->MR              PSet: 29= 2sm=                PAct:  5= MCH          
+
+ domain:  7 = domat: 11
+ ---------------------- 
+ dAt: 11
+ Speaker : 140 = Set: 29 2sm=               = Act:  5 MCH          
+ Audience: NoRef Set:-36
+ SenderSg: NoRef Set: 29 2sm=               = Act:  5 MCH           [??]
+ AddrssPl: 142 = Set: 36 2pm=               = Act: 12 <M           
+
+ L:  49
+  7Q2 EXO 19,12 [HCMRW <Pr>] [LKM <Co>]
+ PRef:141 HCMRW              PSet: 36= 2pm=                PAct: 12= <M           
+ PRef:142 LKM:sfx            PSet: 36= 2pm=                PAct: 12= <M           
+
+ L:  50
+  7Q2 EXO 19,12 [<LWT <Pr>] [B--HR <Co>]
+ PRef:143 <LWT               PSet: 36= 2pm=                PAct: 12= <M           
+ PRef:144 B--HR              PSet: 37= 3sm=HR              PAct:  7= HR           
+
+ L:  51
+  7Q2 EXO 19,12 [W-<Cj>] [NG< <Pr>] [B-QYHW <Co>]
+ PRef:145 NG<                PSet: 36= 2pm=                PAct: 12= <M           
+ PRef:146 B-QYHW             no PSet 
+ PRef:147 QYHW:sfx           PSet: 37= 3sm=HR              PAct:  7= HR           
+
+ L:  52
+  7Q2 EXO 19,12 [KL <Su>]
+ PRef:148 KL                 PSet: 38= 3sm=                PAct: 16= 3sm"HE"      
+
+ L:  53
+  7Q2 EXO 19,12 [H-<Re>] [NG< <PC>] [B--HR <Co>]
+ PRef:149 NG<                PSet: 38= 3sm=                PAct: 16= 3sm"HE"      
+ PRef:150 B--HR              PSet: 37= 3sm=HR              PAct:  7= HR           
+
+ L:  54
+  7Q2 EXO 19,12 [MWT <Mo>] [JWMT <Pr>]
+ PRef:151 JWMT               PSet: 38= 3sm=                PAct: 16= 3sm"HE"      
+
+ L:  55
+  7Q2 EXO 19,13 [L> <Ng>] [TG< <Pr>] [BW <Co>] [JD <Su>]
+ PRef:152 TG<                PSet: 39= 3sf=JD              PAct: 17= JD           
+ PRef:153 BW:sfx             PSet: 37= 3sm=HR              PAct:  7= HR           
+ PRef:154 JD                 PSet: 39= 3sf=JD              PAct: 17= JD           
+
+ L:  56
+  7Q2 EXO 19,13 [KJ <Cj>] [SQWL <Mo>] [JSQL <Pr>]
+ PRef:155 JSQL               PSet: 38= 3sm=                PAct: 16= 3sm"HE"      
+
+ L:  57
+  7Q2 EXO 19,13 [>W <Cj>] [JRH <Mo>] [JJRH <Pr>]
+ PRef:156 JJRH               PSet: 38= 3sm=                PAct: 16= 3sm"HE"      
+
+ L:  58
+  7Q2 EXO 19,13 [>M <Cj>] [BHMH <PC>]
+ PRef:157 BHMH               no PSet 
+
+ L:  59
+  7Q2 EXO 19,13 [>M <Cj>] [>JC <PC>]
+ PRef:158 >JC                no PSet 
+
+ L:  60
+  7Q2 EXO 19,13 [L> <Ng>] [JXJH <Pr>]
+ PRef:159 JXJH               PSet: 38= 3sm=                PAct: 16= 3sm"HE"      
+
+ domain:  6 = domat: 12
+ ---------------------- 
+ dAt: 12
+ Speaker :   0 = Set: 23 3sm=JHWH           = Act:  6 JHWH         
+ Audience:   0 = Set:  5 3sm=MCH            = Act:  5 MCH          
+ SenderSg: NoRef Set: 23 3sm=JHWH           = Act:  6 JHWH          [??]
+ AddrssSg: 138 = Set: 29 2sm=               = Act:  5 MCH          
+
+ L:  61
+  7Q1 EXO 19,13 [B-MCK <Pr>] [H-JBL <Su>]
+ PRef:160 B-MCK              PSet: 40= 0sm=JWBL            PAct: 18= JWBL         
+ PRef:161 H-JBL              PSet: 40= 0sm=JWBL            PAct: 18= JWBL         
+
+ L:  62
+  6Q1 EXO 19,13 [HMH <Su>] [J<LW <Pr>] [B--HR <Co>]
+ PRef:162 HMH                PSet: 30= 3pm=<M              PAct: 12= <M           
+ PRef:163 J<LW               PSet: 30= 3pm=<M              PAct: 12= <M           
+ PRef:164 B--HR              PSet: 41= 0sm=HR              PAct:  7= HR           
+
+ domain:  1 = domat: 13
+ ---------------------- 
+ dAt: 13
+ Speaker : NoRef Set:-999 = Writer 
+ Audience: NoRef Set:-998 = Reader 
+
+ L:  63
+  1N0 EXO 19,14 [W-<Cj>] [JRD <Pr>] [MCH <Su>] [MN H-HR <Co>] [>L H-<M <Co>]
+ PRef:165 JRD                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:166 MCH                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:167 MN H-HR            PSet: 42= 0sm=HR              PAct:  7= HR           
+ PRef:168 >L H-<M            PSet: 43= 3pm=<M              PAct: 12= <M           
+
+ L:  64
+  1N0 EXO 19,14 [W-<Cj>] [JQDC <Pr>] [>T H-<M <Ob>]
+ PRef:169 JQDC               PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:170 >T H-<M            PSet: 43= 3pm=<M              PAct: 12= <M           
+
+ L:  65
+  1N0 EXO 19,14 [W-<Cj>] [JKBSW <Pr>] [FMLTM <Ob>]
+ PRef:171 JKBSW              PSet: 43= 3pm=<M              PAct: 12= <M           
+ PRef:172 FMLTM              PSet: 45= 0pf=FMLH+<M         PAct: 19= FMLH <M      
+ PRef:173 FMLTM:sfx          PSet: 43= 3pm=<M              PAct: 12= <M           
+
+ L:  66
+  1N0 EXO 19,15 [W-<Cj>] [J>MR <Pr>] [>L H-<M <Co>]
+ PRef:174 J>MR               PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:175 >L H-<M            PSet: 43= 3pm=<M              PAct: 12= <M           
+
+ domain:  8 = domat: 14
+ ---------------------- 
+ dAt: 14
+ Speaker : 174 = Set:  5 3sm=MCH            = Act:  5 MCH          
+ Audience: 175 = Set: 43 3pm=<M             = Act: 12 <M           
+ SenderSg: NoRef Set:  5 3sm=MCH            = Act:  5 MCH           [??]
+ AddrssPl: 180 = Set: 46 2pm=               = Act: 12 <M           
+
+ L:  67
+  8Q1 EXO 19,15 [HJW <Pr>] [NKNJM <PC>] [L-CLCT JMJM <Ti>]
+ PRef:176 HJW                PSet: 46= 2pm=                PAct: 12= <M           
+ PRef:177 NKNJM              PSet: 46= 2pm=                PAct: 12= <M           
+ PRef:178 L-CLCT JMJM        no PSet 
+ PRef:179 JMJM               no PSet 
+
+ L:  68
+  8Q1 EXO 19,15 [>L <Ng>] [TGCW <Pr>] [>L >CH <Co>]
+ PRef:180 TGCW               PSet: 46= 2pm=                PAct: 12= <M           
+ PRef:181 >L >CH             no PSet 
+
+ domain:  1 = domat: 15
+ ---------------------- 
+ dAt: 15
+ Speaker : NoRef Set:-999 = Writer 
+ Audience: NoRef Set:-998 = Reader 
+
+ L:  69
+  1N0 EXO 19,16 [W-<Cj>] [JHJ <Pr>] [B--JWM H-CLJCJ <Ti>]
+ PRef:182 JHJ                PSet: 47= 3sm=HJH             PAct: 20= HJH          
+ PRef:183 B--JWM H-CLJCJ     PSet: 48= 0sm=JWM CLJCJ       PAct: 14= JWM CLJCJ    
+
+ L:  70
+  1N0 EXO 19,16 [B-HJT <Pr>] [H-BQR <Su>]
+ PRef:184 B-HJT              PSet: 49= 0sm=BQR             PAct: 21= BQR          
+ PRef:185 H-BQR              PSet: 49= 0sm=BQR             PAct: 21= BQR          
+
+ L:  71
+  1N0 EXO 19,16 [W-<Cj>] [JHJ <Pr>]
+ PRef:186 JHJ                PSet: 47= 3sm=HJH             PAct: 20= HJH          
+
+ L:  72
+  1N0 EXO 19,16 [QLT W-BRQJM W-<NN KBD <Su>] [<L H-HR <PC>]
+ PRef:187 QLT W-BRQJM W-<NN  no PSet 
+ PRef:188 QLT W-BRQJM        no PSet 
+ PRef:189 QLT                no PSet 
+ PRef:190 BRQJM              no PSet 
+ PRef:191 <NN                no PSet 
+ PRef:192 <L H-HR            PSet: 42= 0sm=HR              PAct:  7= HR           
+
+ L:  73
+  1N0 EXO 19,16 [W-<Cj>] [QL CPR XZQ M>D <PC>]
+ PRef:193 QL CPR XZQ M>D     no PSet 
+ PRef:194 QL CPR             PSet: 56= 0sm=QWL CWPR        PAct: 25= QWL CWPR     
+ PRef:195 CPR                no PSet 
+
+ L:  74
+  1N0 EXO 19,16 [W-<Cj>] [JXRD <Pr>] [KL H-<M <Su>]
+ PRef:196 JXRD               PSet: 50= 3sm=<M              PAct: 12= <M           
+ PRef:197 H-<M               PSet: 50= 3sm=<M              PAct: 12= <M           
+
+ L:  75
+  1N0 EXO 19,16 [>CR <Re>] [B--MXNH <PC>]
+ PRef:198 B--MXNH            PSet: 52=     MXNH            PAct: 23= MXNH         
+
+ L:  76
+  1N0 EXO 19,17 [W-<Cj>] [JWY> <Pr>] [MCH <Su>] [>T H-<M <Ob>]
+ PRef:199 JWY>               PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:200 MCH                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:201 >T H-<M            PSet: 43= 3pm=<M              PAct: 12= <M           
+
+ L:  77
+  1N0 EXO 19,17 [L-QR>T <Pr>] [H->LHJM <Co>]
+ PRef:202 L-QR>T             PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:203 H->LHJM            PSet: 51= 3pm=>LHJM           PAct: 22= >LHJM        
+
+ L:  78
+  1N0 EXO 19,17 [MN H-MXNH <Co>]
+ PRef:204 MN H-MXNH          PSet: 52=     MXNH            PAct: 23= MXNH         
+
+ L:  79
+  1N0 EXO 19,17 [W-<Cj>] [JTJYBW <Pr>] [B-TXTJT H-HR <Lo>]
+ PRef:205 JTJYBW             PSet: 43= 3pm=<M              PAct: 12= <M           
+ PRef:206 B-TXTJT H-HR       no PSet 
+ PRef:207 H-HR               PSet: 42= 0sm=HR              PAct:  7= HR           
+
+ L:  80
+  1N0 EXO 19,18 [W-<Cj>] [HR SJNJ <Su>] [<CN / KLW <sp><Pr>]
+ PRef:208 HR SJNJ            PSet: 54= 3sm=HR SJNJ         PAct: 15= HR SJNJ      
+ PRef:209 SJNJ               PSet: 53=     SJNJ            PAct:  3= SJNJ         
+ PRef:210 <CN                PSet: 54= 3sm=HR SJNJ         PAct: 15= HR SJNJ      
+ PRef:211 KLW                no PSet 
+ PRef:212 KLW:sfx            PSet: 54= 3sm=HR SJNJ         PAct: 15= HR SJNJ      
+
+ L:  81
+  1N0 EXO 19,18 [M-PNJ >CR <Cj>] [JRD <Pr>] [<LJW <Co>] [JHWH <Su>] [B-->C <Aj>]
+ PRef:213 JRD                PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef:214 <LJW:sfx           PSet: 54= 3sm=HR SJNJ         PAct: 15= HR SJNJ      
+ PRef:215 JHWH               PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef:216 B-->C              no PSet 
+
+ L:  82
+  1N0 EXO 19,18 [W-<Cj>] [J<L <Pr>] [<CNW <Su>] [K-<CN H-KBCN <Aj>]
+ PRef:217 J<L                PSet: 55= 3sm=<CN+HR SJNJ     PAct: 24= <CN HR SJNJ  
+ PRef:218 <CNW               PSet: 55= 3sm=<CN+HR SJNJ     PAct: 24= <CN HR SJNJ  
+ PRef:219 <CNW:sfx           PSet: 54= 3sm=HR SJNJ         PAct: 15= HR SJNJ      
+ PRef:220 K-<CN H-KBCN       PSet: 55= 3sm=<CN+HR SJNJ     PAct: 24= <CN HR SJNJ  
+ PRef:221 H-KBCN             no PSet 
+
+ L:  83
+  1N0 EXO 19,18 [W-<Cj>] [JXRD <Pr>] [KL H-HR <Su>] [M>D <Mo>]
+ PRef:222 JXRD               PSet: 54= 3sm=HR SJNJ         PAct: 15= HR SJNJ      
+ PRef:223 H-HR               PSet: 54= 3sm=HR SJNJ         PAct: 15= HR SJNJ      
+
+ L:  84
+  1N0 EXO 19,19 [W-<Cj>] [JHJ <Pr>]
+ PRef:224 JHJ                PSet: 47= 3sm=HJH             PAct: 20= HJH          
+
+ L:  85
+  1N0 EXO 19,19 [QWL H-CWPR <Su>] [HWLK <PC>]
+ PRef:225 QWL H-CWPR         PSet: 57= 0sm=QWL CWPR        PAct: 25= QWL CWPR     
+ PRef:226 H-CWPR             PSet: 56= 0sm=QWL CWPR        PAct: 25= QWL CWPR     
+ PRef:227 HWLK               PSet: 57= 0sm=QWL CWPR        PAct: 25= QWL CWPR     
+
+ L:  86
+  1N0 EXO 19,19 [W-<Cj>] [XZQ M>D <PC>]
+ PRef:228 XZQ M>D            PSet: 57= 0sm=QWL CWPR        PAct: 25= QWL CWPR     
+
+ L:  87
+  1N0 EXO 19,19 [MCH <Su>] [JDBR <Pr>]
+ PRef:229 MCH                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:230 JDBR               PSet:  5= 3sm=MCH             PAct:  5= MCH          
+
+ L:  88
+  1N0 EXO 19,19 [W-<Cj>] [H->LHJM <Su>] [J<NNW <PO>] [B-QWL <Co>]
+ PRef:231 H->LHJM            PSet: 51= 3pm=>LHJM           PAct: 22= >LHJM        
+ PRef:232 J<NNW              PSet: 51= 3pm=>LHJM           PAct: 22= >LHJM        
+ PRef:233 J<NNW:sfx          PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:234 B-QWL              PSet: 56= 0sm=QWL CWPR        PAct: 25= QWL CWPR     
+
+ L:  89
+  1N0 EXO 19,20 [W-<Cj>] [JRD <Pr>] [JHWH <Su>] [<L HR SJNJ <Co>] [>L R>C H-HR <Lo>]
+ PRef:235 JRD                PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef:236 JHWH               PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef:237 <L HR SJNJ         PSet: 58= 0sm=HR SJNJ         PAct: 15= HR SJNJ      
+ PRef:238 SJNJ               PSet: 53=     SJNJ            PAct:  3= SJNJ         
+ PRef:239 >L R>C H-HR        PSet: 59= 0sm=R>C HR          PAct: 26= R>C HR       
+ PRef:240 H-HR               PSet: 54= 3sm=HR SJNJ         PAct: 15= HR SJNJ      
+
+ L:  90
+  1N0 EXO 19,20 [W-<Cj>] [JQR> <Pr>] [JHWH <Su>] [L-MCH <Co>] [>L R>C H-HR <Lo>]
+ PRef:241 JQR>               PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef:242 JHWH               PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef:243 L-MCH              PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:244 >L R>C H-HR        PSet: 59= 0sm=R>C HR          PAct: 26= R>C HR       
+ PRef:245 H-HR               PSet: 54= 3sm=HR SJNJ         PAct: 15= HR SJNJ      
+
+ L:  91
+  1N0 EXO 19,20 [W-<Cj>] [J<L <Pr>] [MCH <Su>]
+ PRef:246 J<L                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:247 MCH                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+
+ L:  92
+  1N0 EXO 19,21 [W-<Cj>] [J>MR <Pr>] [JHWH <Su>] [>L MCH <Co>]
+ PRef:248 J>MR               PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef:249 JHWH               PSet: 23= 3sm=JHWH            PAct:  6= JHWH         
+ PRef:250 >L MCH             PSet:  5= 3sm=MCH             PAct:  5= MCH          
+
+ domain:  9 = domat: 16
+ ---------------------- 
+ dAt: 16
+ Speaker : 248 = Set: 23 3sm=JHWH           = Act:  6 JHWH         
+ Audience: 250 = Set:  5 3sm=MCH            = Act:  5 MCH          
+ SenderSg: NoRef Set: 23 3sm=JHWH           = Act:  6 JHWH          [??]
+ AddrssSg: 252 = Set: 60 2sm=               = Act:  5 MCH          
+
+ L:  93
+  9Q1 EXO 19,21 [RD <Pr>]
+ PRef:251 RD                 PSet: 60= 2sm=                PAct:  5= MCH          
+
+ L:  94
+  9Q1 EXO 19,21 [H<D <Pr>] [B--<M <Co>]
+ PRef:252 H<D                PSet: 60= 2sm=                PAct:  5= MCH          
+ PRef:253 B--<M              PSet: 61= 3pm=<M              PAct: 12= <M           
+
+ L:  95
+  9Q1 EXO 19,21 [PN <Cj>] [JHRSW <Pr>] [>L JHWH <Co>]
+ PRef:254 JHRSW              PSet: 61= 3pm=<M              PAct: 12= <M           
+ PRef:255 >L JHWH            PSet: 62= 0sm=JHWH            PAct:  6= JHWH         [1]
+
+ L:  96
+  9Q1 EXO 19,21 [L-R>WT <Pr>]
+ PRef:256 L-R>WT             PSet: 61= 3pm=<M              PAct: 12= <M           
+
+ L:  97
+  9Q1 EXO 19,21 [W-<Cj>] [NPL <Pr>] [MMNW <Aj>] [RB <Su>]
+ PRef:257 NPL                PSet: 63= 3sm=RB              PAct: 27= RB           
+ PRef:258 MMNW:sfx           PSet: 61= 3pm=<M              PAct: 12= <M           
+ PRef:259 RB                 PSet: 63= 3sm=RB              PAct: 27= RB           
+
+ L:  98
+  9Q1 EXO 19,22 [W-<Cj>] [GM H-KHNJM <Su>]
+ PRef:260 GM H-KHNJM         PSet: 64= 3pm=KHN             PAct: 28= KHN          
+
+ L:  99
+  9Q1 EXO 19,22 [H-<Re>] [NGCJM <PC>] [>L JHWH <Co>]
+ PRef:261 NGCJM              PSet: 64= 3pm=KHN             PAct: 28= KHN          
+ PRef:262 >L JHWH            PSet: 62= 0sm=JHWH            PAct:  6= JHWH         [1]
+
+ L: 100
+  9Q1 EXO 19,22 [JTQDCW <Pr>]
+ PRef:263 JTQDCW             PSet: 64= 3pm=KHN             PAct: 28= KHN          
+
+ L: 101
+  9Q1 EXO 19,22 [PN <Cj>] [JPRY <Pr>] [BHM <Co>] [JHWH <Su>]
+ PRef:264 JPRY               PSet: 65= 3sm=JHWH            PAct:  6= JHWH         [1]
+ PRef:265 BHM:sfx            PSet: 64= 3pm=KHN             PAct: 28= KHN          
+ PRef:266 JHWH               PSet: 65= 3sm=JHWH            PAct:  6= JHWH         [1]
+
+ domain:  1 = domat: 17
+ ---------------------- 
+ dAt: 17
+ Speaker : NoRef Set:-999 = Writer 
+ Audience: NoRef Set:-998 = Reader 
+
+ L: 102
+  1N0 EXO 19,23 [W-<Cj>] [J>MR <Pr>] [MCH <Su>] [>L JHWH <Co>]
+ PRef:267 J>MR               PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:268 MCH                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:269 >L JHWH            PSet: 66= 0sm=JHWH            PAct:  6= JHWH         
+
+ domain: 10 = domat: 18
+ ---------------------- 
+ dAt: 18
+ Speaker : 267 = Set:  5 3sm=MCH            = Act:  5 MCH          
+ Audience: 269 = Set: 66 0sm=JHWH           = Act:  6 JHWH         
+ SenderPl: 277 = Set: 71 1pc=               = Act:  5 MCH          
+ AddrssSg: 276 = Set: 70 2sm=>TH            = Act:  6 JHWH         
+
+ L: 103
+ 10Q1 EXO 19,23 [L> <Ng>] [JWKL <Pr>] [H-<M <Su>]
+ PRef:270 JWKL               PSet: 67= 3sm=<M              PAct: 12= <M           
+ PRef:271 H-<M               PSet: 67= 3sm=<M              PAct: 12= <M           
+
+ L: 104
+ 10Q1 EXO 19,23 [L-<LT <Pr>] [>L HR SJNJ <Co>]
+ PRef:272 L-<LT              PSet: 67= 3sm=<M              PAct: 12= <M           
+ PRef:273 >L HR SJNJ         PSet: 68= 0sm=HR SJNJ         PAct: 15= HR SJNJ      
+ PRef:274 SJNJ               PSet: 69=     SJNJ            PAct:  3= SJNJ         
+
+ L: 105
+ 10Q1 EXO 19,23 [KJ <Cj>] [>TH <Su>] [H<DTH <Pr>] [BNW <Co>]
+ PRef:275 >TH                PSet: 70= 2sm=>TH             PAct:  6= JHWH         
+ PRef:276 H<DTH              PSet: 70= 2sm=>TH             PAct:  6= JHWH         
+ PRef:277 BNW:sfx            PSet: 71= 1pc=                PAct:  5= MCH          
+
+ L: 106
+ 10Q1 EXO 19,23 [L->MR <Pr>]
+ PRef:278 L->MR              PSet: 70= 2sm=>TH             PAct:  6= JHWH         
+
+ domain: 11 = domat: 19
+ ---------------------- 
+ dAt: 19
+ Speaker : 278 = Set: 70 2sm=>TH            = Act:  6 JHWH         
+ Audience:   0 = Set: 66 0sm=JHWH           = Act:  6 JHWH         
+ SenderSg: NoRef Set: 70 2sm=>TH            = Act:  6 JHWH          [??]
+ AddrssSg: 281 = Set: 72 2sm=               = Act:  5 MCH          
+
+ L: 107
+ 11Q2 EXO 19,23 [HGBL <Pr>] [>T H-HR <Ob>]
+ PRef:279 HGBL               PSet: 72= 2sm=                PAct:  5= MCH          
+ PRef:280 >T H-HR            PSet: 73= 3sm=HR              PAct:  7= HR           
+
+ L: 108
+ 11Q2 EXO 19,23 [W-<Cj>] [QDCTW <PO>]
+ PRef:281 QDCTW              PSet: 72= 2sm=                PAct:  5= MCH          
+ PRef:282 QDCTW:sfx          PSet: 73= 3sm=HR              PAct:  7= HR           
+
+ domain:  1 = domat: 20
+ ---------------------- 
+ dAt: 20
+ Speaker : NoRef Set:-999 = Writer 
+ Audience: NoRef Set:-998 = Reader 
+
+ L: 109
+  1N0 EXO 19,24 [W-<Cj>] [J>MR <Pr>] [>LJW <Co>] [JHWH <Su>]
+ PRef:283 J>MR               PSet: 74= 3sm=JHWH            PAct:  6= JHWH         
+ PRef:284 >LJW:sfx           PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:285 JHWH               PSet: 74= 3sm=JHWH            PAct:  6= JHWH         
+
+ domain: 12 = domat: 21
+ ---------------------- 
+ dAt: 21
+ Speaker : 283 = Set: 74 3sm=JHWH           = Act:  6 JHWH         
+ Audience: 284 = Set:  5 3sm=MCH            = Act:  5 MCH          
+ SenderSg: NoRef Set: 74 3sm=JHWH           = Act:  6 JHWH          [??]
+ AddrssSg: 292 = Set: 75 2sm=>TH >HRN       = Act:  5 MCH          
+
+ L: 110
+ 12Q1 EXO 19,24 [LK <Pr>]
+ PRef:286 LK                 PSet: 75= 2sm=>TH >HRN        PAct:  5= MCH          
+
+ L: 111
+ 12Q1 EXO 19,24 [RD <Pr>]
+ PRef:287 RD                 PSet: 75= 2sm=>TH >HRN        PAct:  5= MCH          
+
+ L: 112
+ 12Q1 EXO 19,24 [W-<Cj>] [<LJT <Pr>] [>TH W->HRN / <MK <sp><Su>]
+ PRef:288 <LJT               PSet: 75= 2sm=>TH >HRN        PAct:  5= MCH          
+ PRef:289 >TH W->HRN         PSet: 75= 2sm=>TH >HRN        PAct:  5= MCH          
+ PRef:290 >TH                PSet: 75= 2sm=>TH >HRN        PAct:  5= MCH          
+ PRef:291 >HRN               no PSet 
+ PRef:292 <MK:sfx            PSet: 75= 2sm=>TH >HRN        PAct:  5= MCH          
+
+ L: 113
+ 12Q1 EXO 19,24 [W-<Cj>] [H-KHNJM W-H-<M <Su>] [>L <Ng>] [JHRSW <Pr>]
+ PRef:293 H-KHNJM W-H-<M     PSet: 77= 3pm=KHN <M          PAct: 29= KHN <M       
+ PRef:294 H-KHNJM W-H        PSet: 77= 3pm=KHN <M          PAct: 29= KHN <M       
+ PRef:295 H-<M               PSet: 76= 0sm=<M              PAct: 12= <M           
+ PRef:296 JHRSW              PSet: 77= 3pm=KHN <M          PAct: 29= KHN <M       
+
+ L: 114
+ 12Q1 EXO 19,24 [L-<LT <Pr>] [>L JHWH <Co>]
+ PRef:297 L-<LT              PSet: 77= 3pm=KHN <M          PAct: 29= KHN <M       
+ PRef:298 >L JHWH            PSet: 78= 3sm=JHWH            PAct:  6= JHWH         [1]
+
+ L: 115
+ 12Q1 EXO 19,24 [PN <Cj>] [JPRY <Pr>] [BM <Co>]
+ PRef:299 JPRY               PSet: 78= 3sm=JHWH            PAct:  6= JHWH         [1]
+ PRef:300 BM:sfx             PSet: 77= 3pm=KHN <M          PAct: 29= KHN <M       
+
+ domain:  1 = domat: 22
+ ---------------------- 
+ dAt: 22
+ Speaker : NoRef Set:-999 = Writer 
+ Audience: NoRef Set:-998 = Reader 
+
+ L: 116
+  1N0 EXO 19,25 [W-<Cj>] [JRD <Pr>] [MCH <Su>] [>L H-<M <Co>]
+ PRef:301 JRD                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:302 MCH                PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:303 >L H-<M            PSet: 79= 3pm=<M              PAct: 12= <M           
+
+ L: 117
+  1N0 EXO 19,25 [W-<Cj>] [J>MR <Pr>] [>LHM <Co>]
+ PRef:304 J>MR               PSet:  5= 3sm=MCH             PAct:  5= MCH          
+ PRef:305 >LHM:sfx           PSet: 79= 3pm=<M              PAct: 12= <M           
